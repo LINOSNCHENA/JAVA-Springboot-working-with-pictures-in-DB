@@ -1,0 +1,8 @@
+com\bytes\photos\controller\CentralController.class
+com\bytes\photos\model\FileModel.class
+com\bytes\photos\model\View.class
+com\bytes\photos\StudentReportApplication.class
+com\bytes\photos\repository\FileRepository.class
+com\bytes\photos\controller\UploadFileController.class
+com\bytes\photos\model\View$FileInfo.class
+com\bytes\photos\controller\DownloadFileController.class

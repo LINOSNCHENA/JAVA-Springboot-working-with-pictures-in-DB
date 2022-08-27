@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns = " http://www.w3.org/1999/xhtml "
+	xmlns:th = " http://www.thymeleaf.org " >
+<head>
+<title> Money-Machine-Application </title>
+<style>
+h1 {
+	color : forestgreen ;
+	border-style: solid;
+}
+h2 {
+	width	 : 80% ;
+	text-align :left;
+	color : blue ;
+}
+h3 {
+	width : 65% ;	
+	left: 10px;
+	text-align :center;
+	color : blueviolet ;
+}
+div {
+  color : red ;
+  border: red;
+}
+</style>
+</head>
+
+<body>
+	<div style="text-align: center; width: 75%; margin: 0 auto; background: rgb(176, 173, 17); color: rgb(241, 22, 132);">
+<h1> Money-Machine : Agent and Strategy in XML Response </h1> </br>
+
+<h2> InstanceId : </h2> <h1 th:text = " ${xml.instanceId} " > Missing InstanceId Value/Text </h1 > </br>
+<h2> Operation : </h2>	 <h1 th:text = " ${xml.operation} " > Missing Operation Value/Text </h1 > </br>
+<h2> AgentId : </h2>		 <h1 th:text = " ${xml.agentId} " > Missing AgentId Value/Text </h1 > </br>
+<h2> StrategyId : </h2> <h1 th:text = " ${xml.StrategyId} " > Missing StrategyId Value/Text </h1 > </br>
+<h2> StrategyName :</h2><h1 th:text = " ${xml.strategyName} " > Missiong StrategyName Value/Text </h1 > </br>
+<h2> Status : </h2>	<h1 th:text = " ${xml.status} " > Missing Status Value/Text </h1 > </br>
+
+<h4> Headers : </h4>
+
+<h3 th:text = " ${XMLheaders} " ></h3>
+	</div>
+</body>

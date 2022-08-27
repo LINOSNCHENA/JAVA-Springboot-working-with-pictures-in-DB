@@ -13,14 +13,16 @@ mvn spring-boot:run
 Open [http://localhost:8082/](http://localhost:8082/) in browser to see the application.
 
 
-## Routes- View
+## Routes- View-Photo
 http://localhost:8080/View/get/1
+
+## Routes- View-XML
 http://localhost:8082/
 
 Below are screen shots from the application's output
 
-![ M#1 ](https://github.com/LINOSNCHENA/Markets-and-stocks-prices-dashboard/blob/master/UxViews/page1.png)
-![ M#2 ](https://github.com/LINOSNCHENA/Markets-and-stocks-prices-dashboard/blob/master/UxViews/page2.png)
+![ M#1 ](https://github.com/LINOSNCHENA/JAVA-Springboot-working-with-pictures-in-DB/blob/master/UXViews/page1.png)
+![ M#2 ](https://github.com/LINOSNCHENA/JAVA-Springboot-working-with-pictures-in-DB/blob/master/UXViews/page2.png)
 
 
 ## Lecture #16

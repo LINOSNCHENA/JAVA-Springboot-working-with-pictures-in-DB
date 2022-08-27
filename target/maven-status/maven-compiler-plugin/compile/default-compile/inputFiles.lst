@@ -1,7 +1,7 @@
-c:\zMVC\UploadPhotosToDB\src\main\java\com\bytes\photos\controller\UploadFileController.java
-c:\zMVC\UploadPhotosToDB\src\main\java\com\bytes\photos\repository\FileRepository.java
-c:\zMVC\UploadPhotosToDB\src\main\java\com\bytes\photos\controller\DownloadFileController.java
-c:\zMVC\UploadPhotosToDB\src\main\java\com\bytes\photos\StudentReportApplication.java
-c:\zMVC\UploadPhotosToDB\src\main\java\com\bytes\photos\controller\CentralController.java
-c:\zMVC\UploadPhotosToDB\src\main\java\com\bytes\photos\model\View.java
-c:\zMVC\UploadPhotosToDB\src\main\java\com\bytes\photos\model\FileModel.java
+C:\Users\linos\Downloads\Pictures2\DB16\src\main\java\com\bytes\photos\model\View.java
+C:\Users\linos\Downloads\Pictures2\DB16\src\main\java\com\bytes\photos\controller\UploadFileController.java
+C:\Users\linos\Downloads\Pictures2\DB16\src\main\java\com\bytes\photos\StudentReportApplication.java
+C:\Users\linos\Downloads\Pictures2\DB16\src\main\java\com\bytes\photos\controller\DownloadFileController.java
+C:\Users\linos\Downloads\Pictures2\DB16\src\main\java\com\bytes\photos\model\FileModel.java
+C:\Users\linos\Downloads\Pictures2\DB16\src\main\java\com\bytes\photos\repository\FileRepository.java
+C:\Users\linos\Downloads\Pictures2\DB16\src\main\java\com\bytes\photos\controller\CentralController.java

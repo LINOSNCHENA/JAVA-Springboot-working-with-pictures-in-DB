@@ -10,4 +10,4 @@ To run the application in development time, enter the following Maven command:
 mvn spring-boot:run
 ```
 
-Open [http://localhost:8080/](http://localhost:8080/) in browser to see the application.
+Open [http://localhost:8082/](http://localhost:8082/) in browser to see the application.

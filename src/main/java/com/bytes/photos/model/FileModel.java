@@ -8,7 +8,7 @@ import javax.persistence.Table;
 import com.fasterxml.jackson.annotation.JsonView;
 
 @Entity
-@Table(name="picture")
+@Table(name="picture16")
 public class FileModel {
 	@Id
 	@GeneratedValue
